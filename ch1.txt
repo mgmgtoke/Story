@@ -1,0 +1,1 @@
+This error message is trying to tell you that there is no such command called "open". There's nothing wrong with the README.md.
